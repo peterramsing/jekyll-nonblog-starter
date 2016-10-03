@@ -1,7 +1,6 @@
 # Site settings
 title: REPLACE_ME
-email: REPLACE_ME
-description: REPLACE_M
+description: REPLACE_ME
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "REPLACE_ME" # the base hostname & protocol for your site
 
